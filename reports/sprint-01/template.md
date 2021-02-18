@@ -18,7 +18,7 @@ Place report here
 
 ## Developer and Security Assumptions
 
-Place report here
+In terms of site security, we will incorporate HTTPS protocol, so that users can be sure nothing will intercept what they see on the site. We may also incorporate an SSL certificate as well, ensuring users passwords and locations are secure. We will also limit front-end user permissions in order to limit potential damages should the site becomes compromised. To protect users' location, we may incorporate a form of Client Presence Verification, as a safeguard against users who may try to manipulate the location they appear in.
 
 ## User/Admin/Anonymous Story Goes here
 
