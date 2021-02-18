@@ -6,7 +6,7 @@ List team members and roles here
 
 ## UI/UX Report
 
-Place report here
+When designing our UX, we wanted to put the user first. So, we thought about how our concept of water saving could be best utilized by the user. We decided on a website because we wanted to incorporate a social aspect as well as multiple dynamic elements, such as the timer and location service. We felt these elements were best represented on a website, as opposed to a mobile app, so that they would be easier to change by the user.
 
 ## Developer Report
 
