@@ -14,7 +14,7 @@ Place report here
 
 ## IT Infrastructure Report
 
-Place report here
+Being that this program would primarily be accessed by mobile devices, we looked at building a mobile application as mobile devices would primarily be used to access this program.  As we proceeded, we decided a website could serve this same purpose without worrying about writing different sets of code for different devices or writing code for just one subset of mobile users.  We have decided that the website will be hosted on a cloud provider.  This will help reduce cost while providing scalability.  We will have multiple front ends in front of a load balancer that will connect to a back end.  The data will be sent to the DynamoDB database.  
 
 ## Developer and Security Assumptions
 
