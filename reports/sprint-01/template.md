@@ -5,6 +5,7 @@
 List team members and roles here
 
 Greg Prawdzik - IT Infrastructure
+Julie Gelman - UI/UX & Security Reports
 
 ## UI/UX Report
 
