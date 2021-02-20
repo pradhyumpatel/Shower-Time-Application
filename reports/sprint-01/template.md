@@ -9,7 +9,7 @@ Julie Gelman - UI/UX & Security Reports
 
 ## UI/UX Report
 
-When designing our UX, we wanted to put the user first. So, we thought about how our concept of water saving could be best utilized by the user. We decided on a website because we wanted to incorporate a social aspect as well as multiple dynamic elements, such as the timer and location service. We felt these elements were best represented on a website, as opposed to a mobile app, so that they would be easier to change by the user.
+When designing our UX, we wanted to put the user first. So, we thought about how our concept of water saving could be best utilized by the user. We decided on a website because we wanted to incorporate a social aspect as well as multiple dynamic elements, such as the timer and location service. We felt these elements were best represented on a website, as opposed to a mobile app, so that they would be easier to change by the user. However, we also plan to make the site accessible on a mobile site, as it is intended to be used in the bathroom. We figured that the timer element would primarily be used on a mobile device, and the rest of the functions would be used primarily on a computer. 
 
 ## Developer Report
 
