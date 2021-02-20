@@ -3,6 +3,7 @@
 ## Team Number XX
 
 List team members and roles here
+Greg Prawdzik - IT Infrastructure
 
 ## UI/UX Report
 
