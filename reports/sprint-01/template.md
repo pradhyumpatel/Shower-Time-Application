@@ -31,7 +31,7 @@ In terms of site security, we will incorporate HTTPS protocol, so that users can
 
 Initiative 1: Log In
 
-As a site user, I want to log in so that I am able to use the shower timer. 
+As an existing site user, I want to log in so that I am able to use the shower timer. 
 
 ![Landing Page](images/landingPage.png "Website Landing Page")
 
@@ -44,6 +44,8 @@ Screen 2: Existing users may enter their username and password.
 ![Timer](images/timer.png "Timer")
 
 Screen 3: Upon login, the user is taken directly to the timer.
+
+Acceptance criteria: Given valid login credentials, when an existing user clicks the "Sign In" button, they should be taken directly to the shower timer.
 
 
 ## Project Manager Report
