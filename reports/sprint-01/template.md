@@ -41,6 +41,11 @@ Screen 1: Website landing page.
 
 Screen 2: Existing users may enter their username and password.
 
+![Timer](images/timer.png "Timer")
+
+Screen 3: Upon login, the user is taken directly to the timer.
+
+
 ## Project Manager Report
 
 Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
