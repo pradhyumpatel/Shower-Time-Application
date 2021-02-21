@@ -33,6 +33,7 @@ Initiative 1: Log In
 
 As a site user, I want to log in so that I am able to use the shower timer. 
 
+
 ## Project Manager Report
 
 Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
