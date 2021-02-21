@@ -33,6 +33,8 @@ Initiative 1: Log In
 
 As a site user, I want to log in so that I am able to use the shower timer. 
 
+![Landing Page](images/landingPage.png "Website Landing Page")
+
 
 ## Project Manager Report
 
