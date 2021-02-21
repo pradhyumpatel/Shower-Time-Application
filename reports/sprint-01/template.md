@@ -29,7 +29,9 @@ In terms of site security, we will incorporate HTTPS protocol, so that users can
 
 ## User/Admin/Anonymous Story Goes here
 
-This is text interspersed with mockups/screenshots (tell us a story and follow the flow of the application)
+Initiative 1: Log In
+
+As a site user, I want to log in so that I am able to use the shower timer. 
 
 ## Project Manager Report
 
