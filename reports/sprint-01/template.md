@@ -35,6 +35,11 @@ As a site user, I want to log in so that I am able to use the shower timer.
 
 ![Landing Page](images/landingPage.png "Website Landing Page")
 
+Screen 1: Website landing page.
+
+![Landing Page With Log In](images/landingPage_SignIn.png "Existing User Sign In")
+
+Screen 2: Existing users may enter their username and password.
 
 ## Project Manager Report
 
