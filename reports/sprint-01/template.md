@@ -59,6 +59,8 @@ Screen 1: Website landing page.
 
 Screen 2: By not choosing to sign in or create a new account, the guest user is only able to use the timer and read about the concept; they are not able to store and view their information.
 
+Acceptance criteria: Given a valid zip code in the location box, the guest user will be able to use the "Start Timer" button.
+
 ## Project Manager Report
 
 Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
