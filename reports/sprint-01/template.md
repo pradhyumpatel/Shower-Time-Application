@@ -61,6 +61,19 @@ Screen 2: By not choosing to sign in or create a new account, the guest user is 
 
 Acceptance criteria: Given a valid zip code in the location box, the guest user will be able to use the "Start Timer" button.
 
+Initiative 2: Customer Support
+
+As an admin user, I want to log in so that I am able to view my inbox of customer messages.
+
+![Landing Page](images/landingPage.png "Website Landing Page")
+
+Screen 1: Website landing page.
+
+![Admin Landing Page](images/adminHome.png "Admin Home Page")
+
+Screen 2: Admin user home page. Admin users are still able to use site functionality, however, instead of being taken directly to the timer upon login, they are taken directly to their customer support page.
+
+
 ## Project Manager Report
 
 Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
