@@ -21,7 +21,7 @@ Consistency was also key in our UI design, which incorporates Brad Frost's atomi
 
 ## Developer Report
 
-Place report here
+We have decided as a group to build a web application that is accessible by any device or computer. It's more convenient to build on one web app rather than building different application for different devices like ios or android. The three most important factors that a developer should keep in mind when making a application are Frontend, Backend, and Database. The developer's main responsibility is the Backend, where the coding occurs. There are many framework like Express, Django, and Ruby on Rails that can create web applications however our application backend is going to be done by the Spring Framework. The Spring Framwork is a programming model that uses java to create modern enterprise application- on any kind of deployment platform. Spring framework can also support any mulitple databases, and will be connected to Amazon's Mongodb database.
 
 ## IT Infrastructure Report
 
@@ -29,7 +29,7 @@ Being that this program would primarily be accessed by mobile devices, we looked
 
 ## Developer and Security Assumptions
 
-In terms of site security, we will incorporate HTTPS protocol, so that users can be sure nothing will intercept what they see on the site. We may also incorporate an SSL certificate as well, ensuring users passwords and locations are secure. We will also limit front-end user permissions in order to limit potential damages should the site becomes compromised. To protect users' location, we may incorporate a form of Client Presence Verification, as a safeguard against users who may try to manipulate the location they appear in.
+In terms of site security, we will incorporate HTTPS protocol, so that users can be sure nothing will intercept what they see on the site. We may also incorporate an SSL certificate as well, ensuring users passwords and locations are secure. We will also limit front-end user permissions in order to limit potential damages should the site becomes compromised. To protect users' location, we may incorporate a form of Client Presence Verification, as a safeguard against users who may try to manipulate the location they appear in. Since we have decided to use Spring Framework for the backend, it comes with industry-standard authentication protocols like SAML, OAuth, and LDAP. 
 
 ## User/Admin/Anonymous Story Goes here
 
