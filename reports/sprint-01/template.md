@@ -51,6 +51,13 @@ Initiative 2: Anonymous User Log in
 
 As an anonymous guest user, I want to forego logging in so that I may use the shower timer. 
 
+![Landing Page](images/landingPage.png "Website Landing Page")
+
+Screen 1: Website landing page.
+
+![Guest Timer](images/guestTimer.png "Timer for Anonymous Guest User")
+
+Screen 2: By not choosing to sign in or create a new account, the guest user is only able to use the timer and read about the concept; they are not able to store and view their information.
 
 ## Project Manager Report
 
