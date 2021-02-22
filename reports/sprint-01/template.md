@@ -29,7 +29,7 @@ In terms of site security, we will incorporate HTTPS protocol, so that users can
 
 ## User/Admin/Anonymous Story Goes here
 
-Initiative 1: Log In
+Initiative 1: Existing User Log In
 
 As an existing site user, I want to log in so that I am able to use the shower timer. 
 
@@ -46,6 +46,10 @@ Screen 2: Existing users may enter their username and password.
 Screen 3: Upon login, the user is taken directly to the timer.
 
 Acceptance criteria: Given valid login credentials, when an existing user clicks the "Sign In" button, they should be taken directly to the shower timer.
+
+Initiative 2: Anonymous User Log in
+
+As an anonymous guest user, I want to forego logging in so that I may use the shower timer. 
 
 
 ## Project Manager Report
