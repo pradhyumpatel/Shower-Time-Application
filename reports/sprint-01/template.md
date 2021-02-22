@@ -73,6 +73,7 @@ Screen 1: Website landing page.
 
 Screen 2: Admin user home page. Admin users are still able to use site functionality, however, instead of being taken directly to the timer upon login, they are taken directly to their customer support page.
 
+Acceptance criteria: Given a login which is provisioned in the database to have admin access, when an admin user clicks the "Sign In" button, they are directed to their customer support page.
 
 ## Project Manager Report
 
