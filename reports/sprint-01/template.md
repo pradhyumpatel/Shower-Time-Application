@@ -87,6 +87,6 @@ Overall, the start to this project went well. This sprint we decided on the topi
 
 The following screenshot is an overview of the goals assigned this week:
 
-![Trello Kanban Sprint 1](images/SprintOne "Admin Home Page")
+![Trello Kanban Sprint 1](images/SprintOne "Kanban")
 
 We are utilizing Trello with a Kanban style layout for project tracking. Intial tasks are placed into the backlog, then when we have our weekly meeting, we assign tasks. When a task is assigned, the person doing it adds it to their deck on Trello. This week each team succesfully delivered their individual deliverable on time, or provided communication regarding any delays. Of the tasks on the board, 75% were completed. At this time I have not submitted the deliverable, but this must be written first, so that card was not included into the 25% not completed. MariaDB??? card is possibly still in question, and the website app and website in general are continuing in their research, so it is understood why those cards are not completed. Moving forward, we should start to see a working draft of the application. This is Project Manager Ryan providing this report for our first sprint!
