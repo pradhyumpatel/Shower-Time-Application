@@ -81,8 +81,6 @@ Acceptance criteria: Given a login which is provisioned in the database to have 
 
 ## Project Manager Report
 
-Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
-
 Overall, the start to this project went well. This sprint we decided on the topic of our project: A webiste that allows users to track their water consumption in the shower compared to friends and the national average. The goal of this project is to help individuals learn how much water they are consuming. This could be good for people who live in areas facing drought, or need to cut down on a water bill. Our IT Infrastructure team decided that it is more likely that a user will access the web application from there phone, rather than a computer. Thus, we will need to make sure our web app is mobile friendly. In addition to that, our IT Infrastructure team also decided that it would be best to make this an web application rather than dedicated app for Android or iPhone, cause we would have to write using different IDEs and languages. Our Developer Team decided on the most logical steps moving forward to make this application, it will utilize Amazon's mongodb database, and Java on the backend. Our UI/UX team drafted the intial website user interface usings a dedicate color scheme and simple layout that is intuitive and user friendly. Security is important, so our security team decided it would be best to implement HTTPS protocol as well as an SSL certificate to stop interception. Location and backend will be protected with a client verification and Spring Framework respectively.
 
 The following screenshot is an overview of the goals assigned this week:
