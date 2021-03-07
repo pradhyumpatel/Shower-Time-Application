@@ -74,7 +74,7 @@
         "mkdir -p /home/vagrant/.ssh",
         "mkdir -p /root/.ssh",
         "chmod 600 /home/vagrant/id_rsa_systems_gp",
-        "cp -v /home/vagrant/id_rsa_2021-sampleteam-deploy-key /home/vagrant/.ssh/",
+        "cp -v /home/vagrant/id_rsa_systems_gp /home/vagrant/.ssh/",
         "cp -v /home/vagrant/config /home/vagrant/.ssh/",
         "cp -v /home/vagrant/config /root/.ssh/",
         "git clone git@github.com:illinoistech-itm/2021-team01t.git"
