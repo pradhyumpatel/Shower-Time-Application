@@ -1,8 +1,14 @@
 # Sprint-02 Report
 
-## Team Number XX
+## Team Number 01
 
-List team members and roles here
+Pradhyum Patel - OS & IT Infrastructure
+
+Ryan Crawford - UI/UX Design
+
+Gregory Pradzik - Developer
+
+Julie Gelman - Project Manager
 
 ## UI/UX Report
 
