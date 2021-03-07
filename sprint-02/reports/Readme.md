@@ -2,8 +2,10 @@
 
 ## Team Members and Roles
 
-* Name
-* Name
-* Name
-* Name
-* Name
+* Pradhyum Patel - OS & IT Infrastructure
+
+* Ryan Crawford - UI/UX Design
+
+* Gregory Pradzik - Developer
+
+* Julie Gelman - Project Manager
