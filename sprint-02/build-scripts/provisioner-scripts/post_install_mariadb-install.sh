@@ -27,7 +27,7 @@ echo -e "\nport = 3306\nsocket = /var/run/mysqld/mysqld.sock\n" >> /home/vagrant
 echo -e "\ndefault-character-set = utf8mb4\n" >> /home/vagrant/.my.cnf.user
 
 # Set system hostname
-sudo hostnamectl set-hostname gp-server
+sudo hostnamectl set-hostname sample-server
 
 # https://stackoverflow.com/questions/8055694/how-to-execute-a-mysql-command-from-a-shell-script
 # This section uses the user environment variables declared in packer json build template
