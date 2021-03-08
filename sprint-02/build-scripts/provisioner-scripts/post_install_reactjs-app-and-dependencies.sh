@@ -10,7 +10,7 @@ sudo npm install pm2@latest -g
 sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -u vagrant --hp /home/vagrant
 
 # Change the ownership of your cloned repo -- CHANGE THIS FROM 2021-team-sample to your private repo
-sudo chown -R vagrant:vagrant ~/2021-team01t.git
+sudo chown -R vagrant:vagrant ~/2021-team01t
 
 # Install needed dependency
 sudo npm install react react-scripts -g
