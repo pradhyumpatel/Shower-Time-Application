@@ -38,7 +38,7 @@ sudo hostnamectl set-hostname sample-server
 # Replace any occurance of 2021-team-sample with the name of your own team private repository #
 ###############################################################################
 
-sudo chown -R vagrant:vagrant ~/2021-team-sample
+sudo chown -R vagrant:vagrant ~/2021-team01t
 
 # Using sed to replace variables in the scripts with the ENV variables passed
 sed -i "s/\$ACCESSFROMIP/127.0.0.1/g" ~/2021-team01t/sprint-02/code/db-samples/*.sql
