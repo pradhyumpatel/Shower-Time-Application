@@ -6,7 +6,7 @@ Pradhyum Patel - OS & IT Infrastructure
 
 Ryan Crawford - UI/UX Design
 
-Gregory Pradzik - Developer
+Gregory Prawdzik - Developer
 
 Julie Gelman - Project Manager
 
@@ -32,4 +32,4 @@ This is text interspersed with mockups/screenshots (tell us a story and follow t
 
 ## Project Manager Report
 
-Display the tasks and deadlines the Project Manager created and then display and discuss the actual completed percentages of tasks and describe the reasons for this percentage if necessary
+Leading up to our second sprint, we encountered a few issues. 
