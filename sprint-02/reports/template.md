@@ -12,7 +12,7 @@ Julie Gelman - Project Manager
 
 ## UI/UX Report
 
-The goal this sprint for UI/UX was to add in a couple users to the database for reference when we began testing the website. We needed one admin user, and one standard user. Also, this sprint we would have update user stories. However there were a plethora of technical difficulties related to Packer and Vagrant scripts that caused a major set back on this end. The issues have now been fixed and should be good for moving forward.
+The goal this sprint for UI/UX was to add in a couple users to the database for reference when we began testing the website. We needed one admin user, and one standard user. Also, this sprint we would have update user stories. However, there was a plethora of technical difficulties related to Packer and Vagrant scripts that caused a major set back on this end. The issues have now been fixed and should be good for moving forward.
 
 ## Developer Report
 
