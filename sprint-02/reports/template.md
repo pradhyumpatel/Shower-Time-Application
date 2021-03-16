@@ -32,4 +32,4 @@ This is text interspersed with mockups/screenshots (tell us a story and follow t
 
 ## Project Manager Report
 
-Leading up to our second sprint, we encountered a few issues. 
+Leading up to our second sprint, we encountered a few issues. Even though we were given extra time to complete our tasks, we all had problems setting up and accessing our VM. After a lot of troubleshooting and help from each other, Professor Hajek, and our TA, we were all able to get the VM up and running. However, we then ran into trouble when trying to buikd the login page and implement an authentication method. Though we all did our best to help this week's developer, we were just not able to build it successfully in time. 
