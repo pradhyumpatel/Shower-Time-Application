@@ -20,7 +20,7 @@ During this sprint we were supposed to build a working login page. Unfortunatley
 
 ## IT Infrastructure Report
 
-The goal for this sprint was to create a vagrant build that has automated deployment with database. However, our entire team had trouble simply building the vagrant box. We all did manage to successfully troubleshoot and build the box. The requirement for this sprint is setup accounts for all users (admin/guest) and manage their information across a database. Since our entire sprint time was used in troubleshooting, we should be able to get the database connected with the application and have accounts for all users. 
+The goal for this sprint was to create a vagrant build that has automated deployment with database. However, our entire team had trouble simply building the vagrant box. We all did manage to successfully troubleshoot and build the box. The requirement for this sprint is setup accounts for all users (admin/guest) and manage their information across a database. Since our entire sprint time was used in troubleshooting, we should soon be able to get the database connected with the application and have accounts for all users. 
 
 
 ## Developer and Security Assumptions
