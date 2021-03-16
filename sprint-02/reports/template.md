@@ -29,7 +29,7 @@ This sprint, the goal was to automate a firewall to protect our applicaiton and 
 
 ## User/Admin/Anonymous Story Goes here
 
-![Landing Page](signin.png "Website Landing Page")
+![Landing Page](images/signin.png "Website Landing Page")
 
 ## Project Manager Report
 
