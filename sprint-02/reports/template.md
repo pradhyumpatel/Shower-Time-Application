@@ -16,7 +16,7 @@ The goal this sprint for UI/UX was to add in a couple users to the database for 
 
 ## Developer Report
 
-Place report here
+During this sprint we were supposed to build a working login page.  Unfortunatley, building our virtual machines proved to be more than we could handle and took us nearly the entire sprint to get all 4 of our VM's up and working.  We tried to use Google One Tap Login for React.  We coded the App.js with the appropriate key from Google to provide a login service from Google.  Unfortunatly, our test machine would not pull from GitHub.  We Destroyred that file on the VM and recloned the GitHub repository.  This proved to be futile as the code did not work.  Our port we were listneing on was changed and the JSX files were not working.  We tried to remedy this, but were unsuccessful.  
 
 ## IT Infrastructure Report
 
