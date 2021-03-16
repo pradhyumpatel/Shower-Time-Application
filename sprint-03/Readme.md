@@ -1,9 +1,3 @@
-# Sprint-03
+# Scripts
 
-## Team Members and Roles
-
-* Name
-* Name
-* Name
-* Name
-* Name
+Place all scripts needed to build your virtual machine artifacts
