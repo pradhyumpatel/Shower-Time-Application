@@ -24,7 +24,7 @@ Place report here
 
 ## Developer and Security Assumptions
 
-This sprint the goal was to automate a firewall to protect our applicaiton and database. We would also establish a the least amount of privlages needed per user. For example, admin would have full privilages to the application, a user would have just enough to log in, and track their information, and an anonymous user would only be able to use the timer. However, much like UI/UX we encountered technical difficulties that we had work through over the sprint as a group. Those issues have now been corrected, and should be good for moving forward. 
+This sprint, the goal was to automate a firewall to protect our applicaiton and database. We would also establish a the least amount of privlages needed per user. For example, admin would have full privilages to the application, a user would have just enough to log in, and track their information, and an anonymous user would only be able to use the timer. However, much like UI/UX we encountered technical difficulties that we had work through over the sprint as a group. Those issues have now been corrected, and should be good for moving forward. 
 
 ## User/Admin/Anonymous Story Goes here
 
