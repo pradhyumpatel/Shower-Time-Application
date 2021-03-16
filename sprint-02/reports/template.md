@@ -39,7 +39,7 @@ Skeleton sign in page
 
 Skeleton Admin home page
 
-Story 2: Regular user sign in 
+Story 2: Regular user sign in (skeleton)
 
 ![Landing Page](images/signin.png "Website Landing Page")
 
