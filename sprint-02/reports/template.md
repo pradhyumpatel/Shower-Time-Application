@@ -29,7 +29,26 @@ This sprint, the goal was to automate a firewall to protect our applicaiton and 
 
 ## User/Admin/Anonymous Story Goes here
 
+Story 1: Admin sign in (skeleton)
+
 ![Landing Page](images/signin.png "Website Landing Page")
+
+Skeleton sign in page
+
+![Admin Home](images/admin.png "Admin Landing Page")
+
+Skeleton Admin home page
+
+Story 2: Regular user sign in 
+
+![Landing Page](images/signin.png "Website Landing Page")
+
+Skeleton sign in page
+
+![User Home](images/timer.png "User Landing Page")
+
+Skeleton User home page
+
 
 ## Project Manager Report
 
