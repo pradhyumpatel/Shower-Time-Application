@@ -6,7 +6,7 @@ Pradhyum Patel - OS & IT Infrastructure
 
 Ryan Crawford - UI/UX Design
 
-Gregory Pradzik - Developer
+Gregory Prawdzik - Developer
 
 Julie Gelman - Project Manager
 
