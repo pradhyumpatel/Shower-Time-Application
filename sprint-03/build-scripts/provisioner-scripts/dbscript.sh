@@ -45,7 +45,7 @@ echo "192.168.33.34      db    db.example"    | sudo tee -a /etc/hosts
 sudo hostnamectl set-hostname db
 
 # Change the ownership of your cloned repo -- CHANGE THIS FROM 2021-team-sample to your private repo
-sudo chown -R vagrant:vagrant ~/2021-team01t
+sudo chown -R vagrant:vagrant ~/gprawd/2021-team01t
 
 
 # Install mariadb
@@ -71,8 +71,8 @@ echo -e "\ndefault-character-set = utf8mb4\n" >> /home/vagrant/.my.cnf.user
 
 
 # Run SQL command
-sed -i "s/\$ACCESSFROMIP/$ACCESSFROMIP/g" ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
-sed -i "s/\$USERPASS/$USERPASS/g" ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
+sed -i "s/\$ACCESSFROMIP/$ACCESSFROMIP/g" ~/gprawd/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
+sed -i "s/\$USERPASS/$USERPASS/g" ~/gprawd/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 
 ##############################################################################################
 # Changing the mysql bind address with a script
@@ -82,5 +82,5 @@ sed -i "s/\$USERPASS/$USERPASS/g" ~/2021-team01t/sprint-03/code/db-samples/creat
 ##############################################################################################
 sudo sed -i "s/.*bind-address.*/bind-address = $DATABASESERVERIP/" /etc/mysql/mariadb.conf.d/50-server.cnf
 # This script will create the non-root user named worker and grant permission for it
-sudo mysql -u root < ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
+sudo mysql -u root < ~/gprawd/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 
