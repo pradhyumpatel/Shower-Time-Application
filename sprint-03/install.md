@@ -7,12 +7,12 @@ From the build-scripts directory:
 
 Use these values in 'variables.json':
 {
-    "webserver-one-ip": "192.168.33.33",
-    "database-root-pw": "replaceme",
-    "database-access-range": "192.168.33.%",
-    "user-database-password": "replaceme",
-    "ubuntu-firewall-access-range":"192.168.33.0/24",
-    "DATABASESERVERIP":"192.168.33.34"
+   * "webserver-one-ip": "192.168.33.33",
+   * "database-root-pw": "replaceme",
+   * "database-access-range": "192.168.33.%",
+   * "user-database-password": "replaceme",
+   * "ubuntu-firewall-access-range":"192.168.33.0/24",
+   * "DATABASESERVERIP":"192.168.33.34"
 }
 
 `packer build --var-file ./variables.json .\ubuntu18045-sample-server.json`
