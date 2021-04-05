@@ -69,8 +69,7 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 
 2. Include a file  ```install.md``` in the root of the team GitHub Repo detailing all instructions to build and run the functioning parts of your site
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+[install.md](https://github.com/illinoistech-itm/2021-team01t/blob/main/sprint-03/install.md)
 
 
 3. Verify that all defined minimum goals were met and explain goals that were reached beyond what was defined.  Also explain reasons behind goals that were not met.
