@@ -19,6 +19,7 @@ Place links and or screenshots to minimum of **4** artifacts here. Artifacts are
 
 User stories needs to be included in the *diagrams* folder but **not** included in the report section under UI/UX
 
+Artifact 1: Frontend and Backend broken into 2 systems.
 ![Coupled System](images/divided-vagrant.PNG "Frontend and Backend")
 
 ### Infrastructure
