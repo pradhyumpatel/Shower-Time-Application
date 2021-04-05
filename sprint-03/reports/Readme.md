@@ -3,13 +3,13 @@
 ## Team Number XX
 
 
-* Pradhyum Patel - OS & IT Infrastructure
+* Pradhyum Patel - Developer 
 
-* Ryan Crawford - UI/UX Design
+* Ryan Crawford - OS & IT Infrastructure 
 
-* Gregory Pradzik - Developer
+* Gregory Pradzik - Project Manager
 
-* Julie Gelman - Project Manager
+* Julie Gelman - UI/UX Design & Jr. Developer
 
 
 
