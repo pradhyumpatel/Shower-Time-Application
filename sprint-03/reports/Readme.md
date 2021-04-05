@@ -78,8 +78,8 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 * Architecture was broken up into a frontend and backend.
 * install.md added with instructions on how to use.
 * Login/Registration currently non-functional.
-  * We were plagued by our team having trouble successfully building the the front and backe end seperately. Once we had a good working build, that build was placed in the team repo.  All users will now fork from that repo and will now be our single source of truth.  We are still attempting to get this to work. 
-* UI/UX is following closely to user story.  Very little style has been added as we are still focused on functionality.  
+  * We were plagued by our team having trouble successfully building the the front and backe end seperately. Once we had a good working build, that build was placed in the team repo.  All users will now fork from that repo and will now be our single source of truth.  We are still attempting to get this to work. Sadly, fixing this issue cost us time on building our login/registation pages.
+* UI/UX is following user story closely.  Very little style has been added as we are still focused on functionality.  
 * Firewall has been setup to only allow the frontend to communicate with the backend.
 * Database has been setup and prepopulated with 1 admin and 1 general user. 
 * [Shower Timer ERD](https://lucid.app/lucidchart/invitations/accept/4fe05fa7-d71d-42b2-af80-c3fc74869145?viewport_loc=403%2C-144%2C930%2C1020%2C0_0)
