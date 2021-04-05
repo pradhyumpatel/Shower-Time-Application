@@ -74,7 +74,13 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 
 3. Verify that all defined minimum goals were met and explain goals that were reached beyond what was defined.  Also explain reasons behind goals that were not met.
 
-
+* At the end of sprint 02, we had finally gotten our team to all build our boxes successfully, but were unable to get the login page to work.  
+* Architecture was broken up into a frontend and backend.
+* install.md added with instructions on how to use.
+* Login/Registration currently non-functional.
+* UI/UX is following closely to user story.  Very little style has been added as we are still focused on functionality.  
+* Firewall has been setup to only allow the frontend to communicate with the backend.
+* Database has been setup and prepopulated with 1 admin and 1 general user. 
 [Shower Timer ERD](https://lucid.app/lucidchart/invitations/accept/4fe05fa7-d71d-42b2-af80-c3fc74869145?viewport_loc=403%2C-144%2C930%2C1020%2C0_0)
 
 4. List any detailed assumptions your team made explaining deliverable context as needed
