@@ -2,7 +2,16 @@
 
 ## Team Number XX
 
-Greg Prawdzik - Project Manager
+
+
+    Pradhyum Patel - OS & IT Infrastructure
+
+    Ryan Crawford - UI/UX Design
+
+    Gregory Pradzik - Developer
+
+    Julie Gelman - Project Manager
+
 
 ### UI/UX Artifacts
 
