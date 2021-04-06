@@ -22,6 +22,9 @@ User stories needs to be included in the *diagrams* folder but **not** included 
 Artifact 1: Kanban.
 ![Kanban](images/kanban-ui.PNG "Frontend and Backend")
 
+Artifact 2: Login Page.
+[Loginpage commit url ](https://github.com/illinoistech-itm/ppatel108/commits/main)
+
 
 ### Infrastructure
 
