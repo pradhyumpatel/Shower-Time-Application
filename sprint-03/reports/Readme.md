@@ -58,6 +58,12 @@ Error: when trying to view the database and tables automatically populated by th
 
 ![Error: DB not found](images/noDBError.png "DB not found")
 
+Error: We wanted to test each SQL script individually to avoid rebuilding the boxes each time, but were not able to run the scripts in MariaDB.
+
+![Error: MariaDB](images/noDBError.png "MariaDB")
+
+
+
 ### Project Manager
 
 1. Place images of the full User & Admin and/or anonymous story here with annotations of the functioning and the non-functioning portions as necessary (can reuse the artifact created by UI/UX)
