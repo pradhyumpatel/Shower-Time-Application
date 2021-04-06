@@ -52,7 +52,7 @@ Artifact 2: Frontend Login Page
 ![Login Page Design](images/loginpage.jpg "Login page design")
 
 Artifact 3: Login Page Code
-![Login Page Design Code](images/loginpageCode.jpg "Login page design")
+![Login Page Design Code](images/LoginpageCode.jpg "Login page design")
 
 Artifact 4: Kanban Board Task
 ![Kanban Board Task](images/KanbanboardDev.jpg "Kanban Board Developer Task")
