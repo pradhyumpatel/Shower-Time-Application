@@ -54,6 +54,8 @@ Place links and or screenshots to minimum of **4** artifacts here.  Artifacts ar
 
 This sprint saw some more problems for our team, specifically with myself and Pradhyum as developers. We were having trouble understanding the sample code we were given and how to test individual components. I ended up having to build and rebuild my boxes multiple times to see if my changes were effective, though it appeared the code never behaved the way I intended. Also, when compiling and running code, we experienced errors which we were not sure how to proceed with, as we did not think there would be an error to begin with. 
 
+Error: when trying to view the database and tables automatically populated by the sample code, the DB was not able to be found.
+
 ![Error: DB not found](images/noDBError.png "DB not found")
 
 ### Project Manager
