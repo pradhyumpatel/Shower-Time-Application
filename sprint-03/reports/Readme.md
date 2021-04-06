@@ -62,6 +62,10 @@ Error: We wanted to test each SQL script individually to avoid rebuilding the bo
 
 ![Error: MariaDB](images/mariaDBError.png "MariaDB")
 
+Our code which was to create two tables for our database. One table would store user info and identify each user as an admin or regular user, and the other would store users' shower info. The primary key would be each users' user ID, which would be distinct and uniquely identifiable, and used to display water usage info over time for each user.
+
+
+
 
 
 ### Project Manager
