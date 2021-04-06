@@ -60,7 +60,7 @@ Error: when trying to view the database and tables automatically populated by th
 
 Error: We wanted to test each SQL script individually to avoid rebuilding the boxes each time, but were not able to run the scripts in MariaDB.
 
-![Error: MariaDB](images/noDBError.png "MariaDB")
+![Error: MariaDB](images/mariaDBError.png "MariaDB")
 
 
 
