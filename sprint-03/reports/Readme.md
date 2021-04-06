@@ -47,6 +47,8 @@ Artifact 5: Commit url for adding ERD image and note
 
 Place links and or screenshots to minimum of **5** artifacts here. Artifacts are defined as GitHub commit URL and Project Management Tool Kanban board images (Trello or JIRA).
 
+This sprint saw some more problems for our team, specifically with myself and Pradhyum as developers. We were having trouble understanding the sample code we were given and how to test individual components. I ended up having to build and rebuild my boxes multiple times to see if my changes were effective, though it appeared the code never behaved the way I intended.
+
 ### Junior Developer
 
 Place links and or screenshots to minimum of **4** artifacts here.  Artifacts are defined as GitHub commit URL and Project Management Tool Kanban board images (Trello or JIRA).
