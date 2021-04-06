@@ -15,7 +15,7 @@ Use these values in 'variables.json':
    * "DATABASESERVERIP":"192.168.33.34"
 }
 
-`packer build --var-file ./variables.json .\ubuntu18045-sample-server.json`
+`packer build --var-file ./variables.json .itmt430-demo.json`
 
 This will create 2 "Boxes" a frontend and db.  
 You will need to use vagrant to init these boxes.  
