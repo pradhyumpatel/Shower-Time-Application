@@ -118,9 +118,9 @@ I did, however, modify the SQL to add users to the database on creation of the b
 
 * We got ourLogin-Signup page up, but it was not functional.
   * Login
-![Login](images/createAccount.png "Login")
+![Login Page Design](images/loginpage.jpg "Login page design")
 
-* Our Timer nor Admin Home are not currently up.
+* Neither our Timer nor Admin Home are not currently up.
   * Timer
 ![Timer](images/guestTimer.png "Timer")
   * Admin
@@ -145,16 +145,18 @@ I did, however, modify the SQL to add users to the database on creation of the b
 
 3. Verify that all defined minimum goals were met and explain goals that were reached beyond what was defined.  Also explain reasons behind goals that were not met.
 
-* At the end of sprint 02, we had finally gotten our team to all build our boxes successfully, but were unable to get the login page to work.  
+* At the end of sprint 02, we had finally gotten our team to all build our boxes successfully
+  * We got the boxes to build and a react page to open, but were unable to get the login page to work.
+  * Something happened and we lost the ability to display the react page.  
 * Architecture was broken up into a frontend and backend.
 * install.md added with instructions on how to use.
 * Login/Registration currently non-functional.
-  * We were plagued by our team having trouble successfully building the the front and backe end seperately. Once we had a good working build, that build was placed in the team repo.  All users will now fork from that repo and will now be our single source of truth.  We are still attempting to get this to work. Sadly, fixing this issue cost us time on building our login/registation pages.
+  * We were plagued by our team having trouble successfully building the the front and backe end seperately. Once we had a good working build, that build was placed in the team repo.  All users will now fork from that repo and will now be our single source of truth.  We are still attempting to get this to work. Sadly, fixing this issue cost us time on building our login/registation pages.  And now the react page is also down.
 * UI/UX is following user story closely.  Very little style has been added as we are still focused on functionality.  
 * Firewall has been setup to only allow the frontend to communicate with the backend.
-* Database has been setup and prepopulated with 1 admin and 1 general user. 
+* Database has commands have been preped to go along with our ERD.  We must wait to get our boxes to build properly before we can continue. 
 * [Shower Timer ERD](https://github.com/illinoistech-itm/2021-team01t/blob/1b1b49f2d7593294fb38689d5be0721776b080bf/sprint-03/diagrams/images/ShowerTimerERD(1).png)
 
 4. List any detailed assumptions your team made explaining deliverable context as needed
-* We were all trying to build on our own clones and did not properly fork the team repo.  After remediated this issue, all memebers now have a good clean base build to work off of and a single source of truth for the team.  
+* We were all trying to build on our own clones and did not properly fork the team repo.  After remediating this issue, all memebers now have a good clean base build to work off of and a single source of truth for the team. Unfortunately we broke someghing and cannot display our react page now. 
 
