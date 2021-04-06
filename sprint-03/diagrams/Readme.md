@@ -19,4 +19,4 @@ Place all user, admin, and anonymous stories and other diagrams such as ERD diag
 
 
 * ERD Diagram (in Progress)
-![ERD](images/IMG_6811.png "ERD In Progress")
+![ERD](images/ShowerTimerERD(1).png "ERD")
