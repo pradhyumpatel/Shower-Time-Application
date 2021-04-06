@@ -75,6 +75,11 @@ The final task I had was to create root and non root users in the database. Howe
 
 ![Kanban Task](images/kanban1.png "Kanban")
 
+I did, however, modify the SQL to add users to the database on creation of the box:
+
+![Add users](images/kanban4.png "Add Users")
+
+
 
 
 
