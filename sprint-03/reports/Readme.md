@@ -5,7 +5,7 @@
 
 * Pradhyum Patel - Developer 
 
-* Ryan Crawford - OS & IT Infrastructure & Diagram Report
+* Ryan Crawford - OS & IT Infrastructure
 
 * Gregory Pradzik - Project Manager
 
