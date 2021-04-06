@@ -28,6 +28,11 @@ Artifact 2: Frontend Login Page
 Artifact 3: Original Login Design.
 ![Login](images/createAccount.png "Login")
 
+Artifact 4: Admin Home Design.
+![Login](images/adminHome.png "Admin Home")
+
+
+
 
 ### Infrastructure
 
