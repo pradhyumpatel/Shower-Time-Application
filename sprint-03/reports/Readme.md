@@ -94,7 +94,7 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 * UI/UX is following user story closely.  Very little style has been added as we are still focused on functionality.  
 * Firewall has been setup to only allow the frontend to communicate with the backend.
 * Database has been setup and prepopulated with 1 admin and 1 general user. 
-* [Shower Timer ERD](https://lucid.app/lucidchart/invitations/accept/4fe05fa7-d71d-42b2-af80-c3fc74869145?viewport_loc=403%2C-144%2C930%2C1020%2C0_0)
+* [Shower Timer ERD](https://github.com/illinoistech-itm/2021-team01t/blob/1b1b49f2d7593294fb38689d5be0721776b080bf/sprint-03/diagrams/images/ShowerTimerERD(1).png)
 
 4. List any detailed assumptions your team made explaining deliverable context as needed
 * We were all trying to build on our own clones and did not properly fork the team repo.  After remediated this issue, all memebers now have a good clean base build to work off of and a single source of truth for the team.  
