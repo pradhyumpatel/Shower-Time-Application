@@ -62,11 +62,44 @@ Artifact 5: Commit Url for Login Page configuration
 [Loginpage commit url ](https://github.com/illinoistech-itm/ppatel108/commits/main)
 
 
+
 ### Junior Developer
 
 Place links and or screenshots to minimum of **4** artifacts here.  Artifacts are defined as GitHub commit URL and Project Management Tool Kanban board images (Trello or JIRA).
 
-Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and assigned
+This sprint saw some more problems for our team, specifically with myself and Pradhyum as developers. We were having trouble understanding the sample code we were given and how to test individual components. I ended up having to build and rebuild my boxes multiple times to see if my changes were effective, though it appeared the code never behaved the way I intended. Also, when compiling and running code, we experienced errors which we were not sure how to proceed with, as we did not think there would be an error to begin with. 
+
+Error: when trying to view the database and tables automatically populated by the sample code, the DB was not able to be found.
+
+![Error: DB not found](images/noDBError.png "DB not found")
+
+Error: We wanted to test each SQL script individually to avoid rebuilding the boxes each time, but were not able to run the scripts in MariaDB.
+
+![Error: MariaDB](images/mariaDBError.png "MariaDB")
+
+Our code which was to create two tables for our database. One table would store user info and identify each user as an admin or regular user, and the other would store users' shower info. The primary key would be each users' user ID, which would be distinct and uniquely identifiable, and used to display water usage info over time for each user.
+
+![Code: DB Tables](images/tableCode.png "Table Code")
+
+Kanban Artifacts: As Jr Developer, I had three major tasks this sprint. The following two were accomplished, with help from my other group members, though not without our fair share of errors.
+
+![Kanban Task](images/kanban2.png "Kanban")
+![Kanban Task](images/kanban3.png "Kanban")
+
+The final task I had was to create root and non root users in the database. However, since we were not able to successfully create a database, this was not accomplished. Our concept of least privileges would restrict regular users from modifying or deleting info from the shower table, and would only allow them to change personal info. Admin users would have access to create, add, modify, delete from the shower table, and if a user wanted to do so, they would have to reach out for help
+
+![Kanban Task](images/kanban1.png "Kanban")
+
+I did, however, modify the SQL to add users to the database on creation of the box:
+
+![Add users](images/kanban4.png "Add Users")
+
+
+
+
+
+
+
 
 ### Project Manager
 
