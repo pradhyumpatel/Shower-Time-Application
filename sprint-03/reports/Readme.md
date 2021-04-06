@@ -5,7 +5,7 @@
 
 * Pradhyum Patel - Developer 
 
-* Ryan Crawford - OS & IT Infrastructure & Diagram Report
+* Ryan Crawford - OS & IT Infrastructure
 
 * Gregory Pradzik - Project Manager
 
@@ -30,6 +30,18 @@ Place links and or screenshots to minimum of **5** artifacts here. Artifacts are
 
 Artifact 1: Frontend and Backend broken into 2 systems.
 ![Coupled System](images/divided-vagrant.PNG "Frontend and Backend")
+
+Artifact 2: Trello Screenshot of task
+![diagrams folder task](images/diagram-task "Adding diagrams responsibility")
+
+Artifact 3: Trello Screenshot of task
+![two ends task](images/diagram-task "using two ends")
+
+Artifact 4: Commit url for adding to Diagrams
+![commit url 1](https://github.com/rccrawford/2021-team01t/commit/af59de2a61c4e015d9ffe0a8e32236037106ff35)
+
+Artifact 5: Commit url for adding ERD image and note
+![commit url 2](https://github.com/rccrawford/2021-team01t/commit/5e67265d11b87a8a5e21d172ffa0a1f813b8f918)
 
 ### Developer
 
