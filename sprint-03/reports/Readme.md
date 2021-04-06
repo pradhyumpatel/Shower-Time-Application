@@ -51,7 +51,16 @@ Artifact 1: Frontend Login Page Nav Bar
 Artifact 2: Frontend Login Page
 ![Login Page Design](images/loginpage.jpg "Login page design")
 
-Place links and or screenshots to minimum of **5** artifacts here. Artifacts are defined as GitHub commit URL and Project Management Tool Kanban board images (Trello or JIRA).
+Artifact 3: Login Page Code
+![Login Page Design Code](images/loginpageCode.jpg "Login page design")
+
+Artifact 4: Kanban Board Task
+![Kanban Board Task](images/KanbanboardDev.jpg "Kanban Board Developer Task")
+
+
+Artifact 5: Commit Url for Login Page configuration
+[Loginpage commit url ](https://github.com/illinoistech-itm/ppatel108/commits/main)
+
 
 ### Junior Developer
 
