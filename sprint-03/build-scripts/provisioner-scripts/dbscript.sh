@@ -68,7 +68,7 @@ echo -e "[mysqld]" > /home/vagrant/.my.cnf.user
 echo -e "\n\n[client]\nuser = worker\npassword = $USERPASS" >> /home/vagrant/.my.cnf.user
 echo -e "\nport = 3306\nsocket = /var/run/mysqld/mysqld.sock\n" >> /home/vagrant/.my.cnf.user
 echo -e "\ndefault-character-set = utf8mb4\n" >> /home/vagrant/.my.cnf.user
-
+# test comment
 
 # Run SQL command
 sed -i "s/\$ACCESSFROMIP/$ACCESSFROMIP/g" ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
