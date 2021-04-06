@@ -4,8 +4,6 @@
 
 
 * Pradhyum Patel - Developer 
-//test commit
-
 
 * Ryan Crawford - OS & IT Infrastructure
 
@@ -46,6 +44,12 @@ Artifact 5: Commit url for adding ERD image and note
 [commit url 2](https://github.com/rccrawford/2021-team01t/commit/5e67265d11b87a8a5e21d172ffa0a1f813b8f918)
 
 ### Developer
+
+Artifact 1: Frontend Login Page Nav Bar
+![Login Nav Bar Design](images/loginpage2.jpg "Login Nav Bar Design")
+
+Artifact 2: Frontend Login Page
+![Login Page Design](images/loginpage.jpg "Login page design")
 
 Place links and or screenshots to minimum of **5** artifacts here. Artifacts are defined as GitHub commit URL and Project Management Tool Kanban board images (Trello or JIRA).
 
