@@ -66,6 +66,18 @@ Our code which was to create two tables for our database. One table would store 
 
 ![Code: DB Tables](images/tableCode.png "Table Code")
 
+Kanban Artifacts: As Jr Developer, I had three major tasks this sprint. The following two were accomplished, with help from my other group members, though not without our fair share of errors.
+
+![Kanban Task](images/kanban2.png "Kanban")
+![Kanban Task](images/kanban3.png "Kanban")
+
+The final task I had was to create root and non root users in the database. However, since we were not able to successfully create a database, this was not accomplished.
+
+![Kanban Task](images/kanban1.png "Kanban")
+
+
+
+
 
 
 
