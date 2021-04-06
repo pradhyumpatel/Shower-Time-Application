@@ -47,24 +47,24 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 
 * Our Login-Signup page is up, but users cannot currently login.
   * Login
-![Login](images/images/createAccount.png "Login")
+![Login](images/createAccount.png "Login")
 
 * Our Timer nor Admin Home are not currently up.
   * Timer
-![Timer](images/images/guestTimer.png "Timer")
+![Timer](images/guestTimer.png "Timer")
   * Admin
-![Admin](images/images/adminHome.png "Admin")
+![Admin](images/adminHome.png "Admin")
 
 
 * Other parts such as views of customer accounts are not currently available.
   * Overview 
-![Overview](images/images/myAccountOverview.png "Overview")
+![Overview](images/myAccountOverview.png "Overview")
   * Shower Info
-![Shower Info](images/images/myAccountShowerInfo.png "Shower Info")
+![Shower Info](images/myAccountShowerInfo.png "Shower Info")
   * Usage
-![Usage](images/images/myAccountUsage.png "Usage")
+![Usage](images/myAccountUsage.png "Usage")
   * Graph
-![Graph](images/images/myAccountUsageGraph.png "Graph")
+![Graph](images/myAccountUsageGraph.png "Graph")
 
 
 2. Include a file  ```install.md``` in the root of the team GitHub Repo detailing all instructions to build and run the functioning parts of your site
