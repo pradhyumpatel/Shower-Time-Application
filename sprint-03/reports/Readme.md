@@ -5,7 +5,7 @@
 
 * Pradhyum Patel - Developer 
 
-* Ryan Crawford - OS & IT Infrastructure & Diagram Report
+* Ryan Crawford - OS & IT Infrastructure
 
 * Gregory Pradzik - Project Manager
 
@@ -30,6 +30,18 @@ Place links and or screenshots to minimum of **5** artifacts here. Artifacts are
 
 Artifact 1: Frontend and Backend broken into 2 systems.
 ![Coupled System](images/divided-vagrant.PNG "Frontend and Backend")
+
+Artifact 2: Trello Screenshot of task
+![diagrams folder task](images/diagram-task.png "Adding diagrams responsibility")
+
+Artifact 3: Trello Screenshot of task
+![two ends task](images/seperate-ends.png "using two ends")
+
+Artifact 4: Commit url for adding to Diagrams
+[commit url 1](https://github.com/rccrawford/2021-team01t/commit/af59de2a61c4e015d9ffe0a8e32236037106ff35)
+
+Artifact 5: Commit url for adding ERD image and note
+[commit url 2](https://github.com/rccrawford/2021-team01t/commit/5e67265d11b87a8a5e21d172ffa0a1f813b8f918)
 
 ### Developer
 
@@ -82,7 +94,7 @@ Place screen shot to image of a minimum of 5 GitHub issues/bugs reported and ass
 * UI/UX is following user story closely.  Very little style has been added as we are still focused on functionality.  
 * Firewall has been setup to only allow the frontend to communicate with the backend.
 * Database has been setup and prepopulated with 1 admin and 1 general user. 
-* [Shower Timer ERD](https://lucid.app/lucidchart/invitations/accept/4fe05fa7-d71d-42b2-af80-c3fc74869145?viewport_loc=403%2C-144%2C930%2C1020%2C0_0)
+* [Shower Timer ERD](https://github.com/illinoistech-itm/2021-team01t/blob/1b1b49f2d7593294fb38689d5be0721776b080bf/sprint-03/diagrams/images/ShowerTimerERD(1).png)
 
 4. List any detailed assumptions your team made explaining deliverable context as needed
 * We were all trying to build on our own clones and did not properly fork the team repo.  After remediated this issue, all memebers now have a good clean base build to work off of and a single source of truth for the team.  
