@@ -25,6 +25,9 @@ Artifact 1: Kanban.
 Artifact 2: Frontend Login Page
 ![Login Page Design](images/loginpage.jpg "Login page design")
 
+Artifact 3: Original Login Design.
+![Login](images/createAccount.png "Login")
+
 
 ### Infrastructure
 
