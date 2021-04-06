@@ -116,7 +116,7 @@ I did, however, modify the SQL to add users to the database on creation of the b
 
 1. Place images of the full User & Admin and/or anonymous story here with annotations of the functioning and the non-functioning portions as necessary (can reuse the artifact created by UI/UX)
 
-* Our Login-Signup page is up, but users cannot currently login.
+* We got ourLogin-Signup page up, but it was not functional.
   * Login
 ![Login](images/createAccount.png "Login")
 
