@@ -71,7 +71,7 @@ Kanban Artifacts: As Jr Developer, I had three major tasks this sprint. The foll
 ![Kanban Task](images/kanban2.png "Kanban")
 ![Kanban Task](images/kanban3.png "Kanban")
 
-The final task I had was to create root and non root users in the database. However, since we were not able to successfully create a database, this was not accomplished.
+The final task I had was to create root and non root users in the database. However, since we were not able to successfully create a database, this was not accomplished. Our concept of least privileges would restrict regular users from modifying or deleting info from the shower table, and would only allow them to change personal info. Admin users would have access to create, add, modify, delete from the shower table, and if a user wanted to do so, they would have to reach out for help
 
 ![Kanban Task](images/kanban1.png "Kanban")
 
