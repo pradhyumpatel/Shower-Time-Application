@@ -217,7 +217,7 @@
     
               "--memory",
     
-              "512"
+              "2048"
     
             ]
     
@@ -269,7 +269,8 @@
         "DBPASS={{user `database-root-pw`}}",
         "ACCESSFROMIP={{user `database-access-range`}}",
         "USERPASS={{user `user-database-password`}}",
-        "FIREWALLACCESS={{user `ubuntu-firewall-access-range`}}"
+        "FIREWALLACCESS={{user `ubuntu-firewall-access-range`}}",
+        "DATABASESERVERIP={{user `DATABASESERVERIP`}}"
       ],
       "only": ["db"]
     } 
