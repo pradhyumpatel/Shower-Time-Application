@@ -85,5 +85,4 @@ sudo sed -i "s/.*bind-address.*/bind-address = $DATABASESERVERIP/" /etc/mysql/ma
 sudo mysql -u root < ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 
 sudo npm install
-sudo npm install;
-sudo npm install express;
+sudo npm install express
