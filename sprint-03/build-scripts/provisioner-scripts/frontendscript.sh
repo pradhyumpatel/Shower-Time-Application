@@ -65,3 +65,6 @@ sudo pm2 save
 sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 sudo chown -R $USER:$(id -gn $USER) /home/vagrant/.config 
 sudo chown -R vagrant:vagrant /home/vagrant/.config 
+
+sudo npm install;
+sudo npm install express;

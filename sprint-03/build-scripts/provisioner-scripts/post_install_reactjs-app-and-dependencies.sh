@@ -18,7 +18,8 @@ sudo npm install react react-scripts -g
 sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 cd /home/vagrant/gprawd/2021-team01t/code/ReactMultiPageWebsite
 # Get project dependencies (npm packages)
-sudo npm install
+sudo npm install;
+sudo npm install express;
 # This will cause the app to autostart on subsequent reboots and launch the app on 192.168.33.33:3000
 sudo pm2 start --name reactjs-project npm -- start --host 192.168.33.33
 sudo pm2 save
