@@ -84,5 +84,3 @@ sudo sed -i "s/.*bind-address.*/bind-address = $DATABASESERVERIP/" /etc/mysql/ma
 # This script will create the non-root user named worker and grant permission for it
 sudo mysql -u root < ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 
-sudo npm install
-sudo npm install express
