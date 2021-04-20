@@ -23,7 +23,8 @@ We started sprint four with partially functional boxes. We had an issue of getti
 
 In-progress examples 
 
-
+Artifact 1: Kanban.
+![sample css](images/loginsamplecss.PNG "Sample of Login")
 
 ### OS & IT Infrastructure
 
