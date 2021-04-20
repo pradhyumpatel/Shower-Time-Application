@@ -82,5 +82,5 @@ sed -i "s/\$USERPASS/$USERPASS/g" ~/2021-team01t/sprint-03/code/db-samples/creat
 ##############################################################################################
 sudo sed -i "s/.*bind-address.*/bind-address = $DATABASESERVERIP/" /etc/mysql/mariadb.conf.d/50-server.cnf
 # This script will create the non-root user named worker and grant permission for it
-sudo mysql -u root < ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
+sudo mysql -u root < ~/2021-team01t/sprint-04/code/db-samples/create-user-with-permissions-sample.sql
 
