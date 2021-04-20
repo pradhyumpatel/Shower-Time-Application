@@ -70,5 +70,6 @@ cd /home/vagrant/2021-team01t/sprint-03/code
 sudo npx express-generator NodeExpressApiServer
 cd /home/vagrant/2021-team01t/sprint-03/code/NodeExpressApiServer
 sudo npm install
-sudo npm start
+sudo pm2 start --name=NodeExpressApiServer npm -- start --host 192.168.33.33
+sudo pm2 save 
 
