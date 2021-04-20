@@ -23,3 +23,7 @@ INSERT INTO allUsers (userID, userPassword, userAdmin, showerHead) VALUES ('Juli
 INSERT INTO allUsers (userID, userPassword, userAdmin, showerHead) VALUES ('GregP', 'gr39', 1, 'Plus');
 INSERT INTO allUsers (userID, userPassword, userAdmin, showerHead) VALUES ('PradhyumP', 'pr4dh', 1, 'Plus');
 INSERT INTO allUsers (userID, userPassword, userAdmin, showerHead) VALUES ('RyanC', 'ry4n', 0, 'Standard');
+
+
+GRANT SELECT,INSERT,CREATE TEMPORARY TABLES ON userDatabase.* TO worker@'$ACCESSFROMIP' IDENTIFIED BY '$USERPASS'; flush privileges;
+

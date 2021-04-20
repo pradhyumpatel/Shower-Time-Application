@@ -49,7 +49,7 @@ sudo mysql -u root < ~/2021-team01t/code/db-samples/create-database.sql
 # This script will create the table named comments
 sudo mysql -u root < ~/2021-team01t/code/db-samples/create-table.sql
 # This script will create the non-root user named worker and the user for replication
-sudo mysql -u root < ~/2021-team01t/code/db-samples/create-user-with-permissions-mm.sql
+sudo mysql -u root < ~/2021-team01t/code/db-samples/create-user-with-permissions-sample.sql
 # This script will insert 3 sample records to the table
 sudo mysql -u root < ~/2021-team01t/code/db-samples/insert-records.sql
 # This script will select * from comments and print the contents to the screen to make sure it all worked

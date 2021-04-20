@@ -54,6 +54,10 @@ router.post('/', (request, response) => {
 
 */
 
+
+
+
+
 // Database (ip, id, password)
 router.post('/', (req, res) => {
 // TODO: /auth logic
