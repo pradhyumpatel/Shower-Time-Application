@@ -32,6 +32,7 @@ ufw allow proto tcp to 0.0.0.0/0 port 22
 ufw allow proto tcp to 0.0.0.0/0 port 80
 ufw allow proto tcp to 0.0.0.0/0 port 443
 ufw allow proto tcp to 0.0.0.0/0 port 3000
+ufw allow proto tcp to 0.0.0.0/0 port 3001
 
 # set the /etc/hosts file to match hostname
 echo "192.168.33.33      frontend    frontend.example"    | sudo tee -a /etc/hosts
@@ -62,12 +63,12 @@ sudo npm install
 # This will cause the app to autostart on subsequent reboots and launch the app on 192.168.33.33:3000
 sudo pm2 start --name reactjs-project npm -- start --host 192.168.33.33
 sudo pm2 save
+# This will cause the app to autostart on subsequent reboots and launch the app on 192.168.33.33:3001
+cd /home/vagrant/2021-team01t/sprint-03/code/NodeExpressApiServer
+sudo npm install
+sudo pm2 start --name nodejs-project npm -- start --host 192.168.33.33
+sudo pm2 save
+
 sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 sudo chown -R $USER:$(id -gn $USER) /home/vagrant/.config 
 sudo chown -R vagrant:vagrant /home/vagrant/.config 
-
-cd /home/vagrant/2021-team01t/sprint-03/code/NodeExpressApiServer
-sudo npm install
-sudo pm2 start --name=NodeExpressApiServer npm -- start --host 192.168.33.33
-sudo pm2 save
-
