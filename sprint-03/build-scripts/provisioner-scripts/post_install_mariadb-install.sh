@@ -63,4 +63,5 @@ ufw --force enable
 ufw allow proto tcp to 0.0.0.0/0 port 22
 # For nodejs app default port
 ufw allow 3000
+ufw allow 3001
 ufw allow from $FIREWALLACCESS to any port 3306

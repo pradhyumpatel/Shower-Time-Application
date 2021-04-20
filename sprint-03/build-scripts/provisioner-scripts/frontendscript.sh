@@ -66,5 +66,9 @@ sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 sudo chown -R $USER:$(id -gn $USER) /home/vagrant/.config 
 sudo chown -R vagrant:vagrant /home/vagrant/.config 
 
-sudo npm install;
-sudo npm install express;
+cd /home/vagrant/2021-team01t/sprint-03/code
+sudo npx express-generator NodeExpressApiServer
+cd /home/vagrant/2021-team01t/sprint-03/code/NodeExpressApiServer
+sudo npm install
+sudo npm start
+
