@@ -27,7 +27,11 @@ Artifact:
 ![sample css](images/BrowserPageLogin.jpg "Sample of Login")
 
 ### OS & IT Infrastructure
+For this sprint, our goals were the same as the previous. Since we had a plethora of errors working toward them last sprint, much of our time was spent troubleshooting. However, we were all able to eventually get our virtual boxes up and running; we used the group repo and had Greg push his code for the boxes, and all of us subsequently pulled from that and were able to update the code so it worked on our personal machines. We figured out that some of our issues arose with the SQL which was running when building our boxes, so we attempted to test each script individually, without having to rebuild the boxes each time.
 
+Example of SQL error:
+
+![SQL Error](images/SQLError.png "SQL Error")
 
 ### Project Manager
 
