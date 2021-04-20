@@ -4,7 +4,7 @@ var mysql = require('mysql');
 var bodyParser = require('body-parser');
 var path = require('path');
 var session = require('express-session');
-
+/*  
 var exapp = express();
 exapp.use(session({
   secret: 'secret',
@@ -52,15 +52,17 @@ router.post('/', (request, response) => {
 
 
 
+*/
 
 
-
-  // TODO: /auth logic
-  //if (req.body.username === 'uname' && req.body.password === 'pw') {
-  //  res.redirect('http://localhost:3000/success');
-  //} else {
-  //  res.send('Incorrect Username and/or Password!', connection);
-  //}
+// Database (ip, id, password)
+router.post('/', (req, res) => {
+// TODO: /auth logic
+if (req.body.username === 'pradhyum' && req.body.password === 'password') {
+  res.redirect('http://localhost:3000/Timer');
+} else {
+  res.send('Incorrect Username and/or Password!');
+}
 
 
 })
