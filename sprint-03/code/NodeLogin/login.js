@@ -30,7 +30,7 @@ app.post('/auth', function(request, response) {
 	var username = request.body.username;
 	var password = request.body.password;
 	if (username && password) {
-		connection.query('SELECT * FROM allUsers WHERE username = ? AND password = ?', [userID, userPassword], function(error, results, fields) {
+		connection.query('SELECT * FROM allUsers WHERE userID = ? AND userPassword = ?', [username, password], function(error, results, fields) {
 			if (results.length > 0) {
 				request.session.loggedin = true;
 				request.session.username = username;
