@@ -31,3 +31,4 @@ Artifact:
 
 ### Project Manager
 
+The Deliverable for this sprint was to include a install.md with instructions on how to build and run your application. We are still in the building and troubleshooting phase where we just got done with the login page connection with the database. From this point onwards, everything should be done with ease as this was the hardest part. 
