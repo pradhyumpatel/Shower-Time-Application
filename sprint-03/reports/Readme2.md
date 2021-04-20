@@ -19,6 +19,10 @@ We came into this sprint without an automated database.  We were able to get the
 
 
 ### Developer
+We started sprint four with partially functional boxes. We had an issue of getting our front end to connect with our backend. While fixing that was in the works, we also started the process of creating css style sheets so when our database connection is successful, we will have pages ready to go.
+
+In-progress examples 
+
 
 
 ### OS & IT Infrastructure
