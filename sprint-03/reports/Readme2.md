@@ -24,7 +24,7 @@ We started sprint four with partially functional boxes. We had an issue of getti
 In-progress examples 
 
 Artifact:
-![sample css](images/loginsamplecss.png "Sample of Login")
+![sample css](images/BrowserPageLogin.jpg "Sample of Login")
 
 ### OS & IT Infrastructure
 
