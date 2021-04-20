@@ -31,7 +31,7 @@ For this sprint, our goals were the same as the previous. Since we had a plethor
  
 Example of SQL error:
 
-![SQL Error](images/SQLError.png "SQL Error")
+![SQL Error](images/SQLError.jpg "SQL Error")
 
 ### Project Manager
 
