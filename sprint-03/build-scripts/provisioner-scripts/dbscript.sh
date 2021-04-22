@@ -74,6 +74,7 @@ echo -e "\ndefault-character-set = utf8mb4\n" >> /home/vagrant/.my.cnf.user
 sed -i "s/\$ACCESSFROMIP/$ACCESSFROMIP/g" ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 sed -i "s/\$USERPASS/$USERPASS/g" ~/2021-team01t/sprint-03/code/db-samples/create-user-with-permissions-sample.sql
 
+
 ##############################################################################################
 # Changing the mysql bind address with a script
 # https://serverfault.com/questions/584607/changing-the-mysql-bind-address-within-a-script

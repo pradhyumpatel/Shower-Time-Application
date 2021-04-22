@@ -61,7 +61,10 @@ sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 #Creating the new directory NodeLogin and installing dependencies
 cd /home/vagrant/2021-team01t/sprint-03/code/NodeLogin
 
-npm init -y 
+
+
+npm init -y
+
 cd /home/vagrant/2021-team01t/sprint-03/code/NodeLogin
 sed -i "s/NodeLogin/login/" /home/vagrant/2021-team01t/sprint-03/code/NodeLogin/package.json
 sed -i "s/index/login/" /home/vagrant/2021-team01t/sprint-03/code/NodeLogin/package.json
