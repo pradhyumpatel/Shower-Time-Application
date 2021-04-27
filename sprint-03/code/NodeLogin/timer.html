@@ -1,22 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no"/>
-  <link rel="stylesheet" media="screen" href="assets/css/reset.css" />
-  <link rel="stylesheet" media="screen" href="assets/css/style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Commissioner&family=Inter&family=Raleway:wght@200&display=swap" rel="stylesheet" />
-  <script async src="assets/js/script.js"></script>
 
-  <title>Shower Timer</title>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Timer</title>
+
+  ​
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  ​
+
+  <script type="text/javascript" src="./assets/js/timer.js"></script>
+  <style>
+    .container {
+      height: 300px;
+      width: 100%;
+    }
+
+    #display {
+      width: 100%;
+      font-size: 72px;
+      text-align: center;
+      margin: 0px auto;
+    }
+
+    .buttons {
+      text-align: center;
+    }
+  </style>
+  ​
+
 </head>
+
 <body>
-  <h1>Timer!</h1>
-  <h4>00:00</h4>
-  
-    <input id="submit-button" type="submit" value="Start">
-	<input id="submit-button" type="submit" value="Stop.">
-  </form>
-  <p></p>
+
+  ​
+
+  <div class="container">
+
+    ​
+
+    <div id="display">
+
+      00:00:00
+
+    </div>
+
+    ​
+
+    <div class="buttons">
+
+      <button id="startStop" onclick="startStop()">Start</button>
+
+      <button id="reset" onclick="reset()">Reset</button>
+
+    </div>
+
+    ​
+
+    <div id="Timer">
+
+      ​
+
+    </div>
+
+    ​
+
+  </div>
+
+
+
 </body>
+
 </html>
