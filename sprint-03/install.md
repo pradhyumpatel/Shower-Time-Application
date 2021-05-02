@@ -20,5 +20,8 @@ Use these values in 'variables.json':
 This will create 2 "Boxes" a frontend and db.  
 You will need to use vagrant to init these boxes.  
 In the Vagrant files, you must uncomment line 35 and replace the end of the IP from .10 to .33 for the frontend and .34 for the db.
+
+
+You will have to navigate to 2021-team01t/sprint-03/code/NodeLogin/ and enter the command node `login.js`.
 Once up and running, you can visit 192.168.33.33:3000 to see our home page.
 
