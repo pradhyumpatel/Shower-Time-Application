@@ -86,9 +86,10 @@ sudo touch login.html login.js
 cd /home/vagrant/2021-team01t/sprint-03/code/NodeLogin
 sudo pm2 start --name nodejs-project npm -- start --host 192.168.33.33
 sudo pm2 save
+sudo pm2 start login.js
 
 sudo chown -R vagrant:vagrant /home/vagrant/.pm2
 sudo chown -R $USER:$(id -gn $USER) /home/vagrant/.config 
 sudo chown -R vagrant:vagrant /home/vagrant/.config 
 
-sudo node login.js
+
