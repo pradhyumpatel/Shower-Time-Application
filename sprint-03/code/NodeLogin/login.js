@@ -29,10 +29,8 @@ app.get('/login', function(request, response) {
 	response.sendFile(path.join(__dirname + '/login.html'));
 });
 app.get('/timer', function(request, response) {
-	response.sendFile(path.join(__dirname + '/timer.html'));
+	response.sendFile(path.join(__dirname + '/assets/js/timer.js'));
 });
-
-
 
 
 app.post('/auth', function(request, response) {
