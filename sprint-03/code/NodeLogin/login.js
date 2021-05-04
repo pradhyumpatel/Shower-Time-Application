@@ -29,7 +29,7 @@ app.get('/login', function(request, response) {
 	response.sendFile(path.join(__dirname + '/login.html'));
 });
 app.get('/timer', function(request, response) {
-	response.sendFile(path.join(__dirname + '/assets/js/timer.js'));
+	response.sendFile(path.join(__dirname + '/timer.html'));
 });
 
 
