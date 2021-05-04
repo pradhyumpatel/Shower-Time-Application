@@ -1,30 +1,32 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <style>
-            html {
-			height: 100%;
-		}
 
-		body {
-			margin: 0;
-			padding: 0;
-			font-family: sans-serif;
-			background: linear-gradient(#141e30, #243b55);
-		}
+<head>
+    <style>
+        html {
+            height: 100%;
+        }
 
-		.login-box {
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			width: 400px;
-			padding: 40px;
-			transform: translate(-50%, -50%);
-			background: rgba(0, 0, 0, .5);
-			box-sizing: border-box;
-			box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
-			border-radius: 10px;
-		}
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: linear-gradient(#141e30, #243b55);
+        }
+
+        .login-box {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 400px;
+            padding: 40px;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, .5);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, .6);
+            border-radius: 10px;
+        }
+
         .login-box h2 {
             margin: 0 0 30px;
             padding: 0;
@@ -80,6 +82,7 @@
             margin-top: 40px;
             letter-spacing: 4px
         }
+
         .login-box form button {
             position: relative;
             display: inline-block;
@@ -93,6 +96,7 @@
             margin-top: 40px;
             letter-spacing: 4px
         }
+
         .login-box button:hover {
             background: #03e9f4;
             color: #fff;
@@ -200,22 +204,23 @@
                 bottom: 100%;
             }
         }
+    </style>
+</head>
 
-        </style>
-    </head>
-    <body>
-        <div class="login-box">
-            <h2>Welcome!</h2>
-            <div class="user-box">
-                <a href="/timer">
-                    Timer Page
-                </a>
-            </div>
-            <div class="user-box">
-                <a href="/friends">
-                    Friends Page
-                </a>
-            </div>
+<body>
+    <div class="login-box">
+        <h2>Welcome!</h2>
+        <div class="user-box">
+            <a href="/timer">
+                Timer Page
+            </a>
         </div>
-    </body>
+        <div class="user-box">
+            <a href="/friends">
+                Friends Page
+            </a>
+        </div>
+    </div>
+</body>
+
 </html>
