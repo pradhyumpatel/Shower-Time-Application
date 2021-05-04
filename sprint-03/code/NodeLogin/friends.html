@@ -82,6 +82,7 @@
             margin-top: 40px;
             letter-spacing: 4px
         }
+
         .login-box form button {
             position: relative;
             display: inline-block;
@@ -95,6 +96,7 @@
             margin-top: 40px;
             letter-spacing: 4px
         }
+
         .login-box button:hover {
             background: #03e9f4;
             color: #fff;
@@ -207,28 +209,13 @@
 
 <body>
     <div class="login-box">
-        <h2>Welcome! Register here</h2>
-        <form>
+        <h2>Connect With Friends!!</h2>
+        <form action="auth" method="POST">
             <div class="user-box">
-                <input type="text" name="" required>
-                <label>FirstName</label>
-            </div>
-            <div class="user-box">
-                <input type="text" name="" required>
+                <input type="text" name="Enter Friends UserID" required>
                 <label>UserID</label>
             </div>
-            <div class="user-box">
-                <input type="password" name="" required>
-                <label>Password</label>
-            </div>
-            <button type="submit">Register</button>
-            <a href="/login">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                Already registered! Login Here
-            </a>
+            <button type="submit">Connect</button>
         </form>
     </div>
 </body>
